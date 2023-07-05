@@ -1074,6 +1074,3 @@ a=['apple','orange','pinapple','grape']
 # print("ICICI Rate of interest:",b3.getroi())
 
 
-
-
-
